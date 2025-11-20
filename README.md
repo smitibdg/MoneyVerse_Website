@@ -29,14 +29,14 @@ This app is built on the principle that a balanced budget should be divided as f
 * **20% Savings:** Future goals (Emergency fund, Investments).
 
 ## 📸 Screenshots
-![Dashboard Screenshot](./screenshots/DashboardPg1.png)
-![Dashboard Screenshot](./screenshots/FinancePg1.png)
-![Dashboard Screenshot](./screenshots/EventsPg1.png)
-![Dashboard Screenshot](./screenshots/GamesPg1.png)
-![Dashboard Screenshot](./screenshots/QuizzesPg1.png)
-![Dashboard Screenshot](./screenshots/ProfilePg1.png)
-![Dashboard Screenshot](./screenshots/JournalPg1.png)
-![Dashboard Screenshot](./screenshots/SettingsPg1.png)
+![Dashboard Screenshot](./Screenshots/DashboardPg1.png)
+![Dashboard Screenshot](./Screenshots/FinancePg1.png)
+![Dashboard Screenshot](./Screenshots/EventsPg1.png)
+![Dashboard Screenshot](./Screenshots/GamesPg1.png)
+![Dashboard Screenshot](./Screenshots/QuizzesPg1.png)
+![Dashboard Screenshot](./Screenshots/ProfilePg1.png)
+![Dashboard Screenshot](./Screenshots/JournalPg1.png)
+![Dashboard Screenshot](./Screenshots/SettingsPg1.png)
 
 ## 💻 How to Run Locally
 1.  Clone the repository:
