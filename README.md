@@ -46,11 +46,6 @@ This app is built on the principle that a balanced budget should be divided as f
 2.  Navigate to the project folder.
 3.  Open `index.html` in your browser.
 
-## 🔮 Future Improvements
-* Add charts/graphs for visual expense analysis.
-* Export monthly reports as PDF.
-* Add multiple user profiles.
-
 ## 👤 Author
 **Smiti Badugu**
 * [LinkedIn](https://www.linkedin.com/in/smiti-badugu-8313a9211/)
